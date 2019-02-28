@@ -28,8 +28,8 @@ CDを購入出来るECサイトの制作
 2019/2/01~2019/2/28  
 
 #### 開発環境
-OS: Windows10.8.5  
-統合開発環境: Eclipse 4.6.3  
-データベース: MySQL(XAMPP 1.8.3-5)  
-プログラミング言語: Java  
-フレームワーク: Struts2  
+OS: Windows10.8.5    
+統合開発環境: Eclipse 4.5     
+データベース: MySQL      
+プログラミング言語: Java    
+フレームワーク: Struts2    
